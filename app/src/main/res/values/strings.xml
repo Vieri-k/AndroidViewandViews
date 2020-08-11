@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MyViewAndViews</string>
+    <string name="content_text">Survival Generation merupakan nama angkatan dari santri
+    -santri Pondok Modern Darussalam Gontor yang lulud pada tahun 2017, Survival generation juga
+    merupakan nama angkatan bagi santriwati pada pondok Gontor putri, yang berarti Survival generation merupakan
+    nama angkatan dari seluruh lulusan Gontor ditahun 2017</string>
+    <string name="content_specs_display">Survival Generation Graduate 2017 Pondok Modern Darussalam Gontor</string>
+    <string name="content_specs_size">Ponorogo, East Java, Indonesia</string>
+    <string name="content_specs_battery">Alumni dari :
+    Pondok Modern darussalam gontor
+        Kampus Putra 1  , Ponorogo
+        Kampus Putra 2  , Ponorogo
+        Kampus Putra 3  , Kediri
+        Kampus Putra 5  , Banyuwangi
+        Kampus Putra 6  , Magelang
+        Kampus Putra 7  , Kendari
+        kampus Putra 9  , Lampung
+        Kampus Putra 13 , Poso
+        Kampus Putri 1  , Ngawi
+        Kampus Putri 2  , Ngawi
+        Kampus Putri 3  , Ngawi
+        Kampus Putri 4  , Sulawesi Tenggara
+        Kampus Putri 5  , Kediri
+        Kampus Putri 6  , Poso
+        Kampus Putri 7  , Riau
+    </string>
+</resources>
